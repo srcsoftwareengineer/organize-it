@@ -1,4 +1,3 @@
-##ORGANIZE IT
+## ORGANIZE IT
 
-
-####Software for help organize files and directories ####
+#### Software for help organize files and directories ####
